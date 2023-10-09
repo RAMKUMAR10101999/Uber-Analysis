@@ -1,4 +1,3 @@
-## Uber-Analysis
 In this analysis we are going to:
 Determine the duration of Uber trips.
 Identify the most common hour for people to take Uber to their destination.
